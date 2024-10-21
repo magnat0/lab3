@@ -6,8 +6,8 @@ services:
     deploy:
       replicas: 3
     ports:
-      - "8081-8090:5000"
-      - "3300-3310:3306"
+      - 8081-8083
+      - 3301-3303
   ansible:
     build:
       context: ./ansible
