@@ -1,12 +1,12 @@
 [ansible_master]
-lab3-ansible-1
+taks2-ansible-1
 
 [database]
-lab3-app-3
+taks2-app-3
 
 [application]
-lab3-app-1
-lab3-app-2
+taks2-app-1
+taks2-app-2
 
 [webapp:children]
 database
