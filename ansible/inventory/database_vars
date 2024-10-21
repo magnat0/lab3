@@ -1,3 +1,2 @@
 [database:vars]
-
 mysql_root_password=root
